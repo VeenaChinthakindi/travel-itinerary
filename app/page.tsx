@@ -108,7 +108,7 @@ export default function Home() {
           <a href="#plan" className="nav-link">Plan a trip</a>
         </nav>
         <div className="hero-inner">
-          <h1>Your next trip, planned in seconds.</h1>
+          <h1>Plan your dream trip with AI</h1>
           <p>
             Tell us where you&apos;re going and what you love. Our AI builds a
             day-by-day itinerary with places to see, food to try and local tips.
